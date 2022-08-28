@@ -1,0 +1,15 @@
+D:\education\С+\ДЗ2\задача13\bin\Debug\net6.0\задача13.exe
+D:\education\С+\ДЗ2\задача13\bin\Debug\net6.0\задача13.deps.json
+D:\education\С+\ДЗ2\задача13\bin\Debug\net6.0\задача13.runtimeconfig.json
+D:\education\С+\ДЗ2\задача13\bin\Debug\net6.0\задача13.dll
+D:\education\С+\ДЗ2\задача13\bin\Debug\net6.0\задача13.pdb
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.csproj.AssemblyReference.cache
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.AssemblyInfoInputs.cache
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.AssemblyInfo.cs
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.csproj.CoreCompileInputs.cache
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.dll
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\refint\задача13.dll
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.pdb
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\задача13.genruntimeconfig.cache
+D:\education\С+\ДЗ2\задача13\obj\Debug\net6.0\ref\задача13.dll
